@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project PUBLIC "-//NetBeans//DTD Project//EN" "http://www.netbeans.org/ns/project/1">
+<project>
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>CalculadoraGUI</name>
+            <source-roots>
+                <root id="src.dir"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir"/>
+            </test-roots>
+            <compile-library-inclusion>exclude</compile-library-inclusion>
+        </data>
+    </configuration>
+</project>
